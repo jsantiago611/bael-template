@@ -27,7 +27,7 @@ body {
   font-size: 3rem;
   font-size: clamp(3.75rem, 7vw, 5.5rem);
   font-family: "GT", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: calc(-0.2rem + -0.05vw);
   line-height: 1.1;
   max-width: 48rem;
