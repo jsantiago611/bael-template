@@ -25,7 +25,7 @@ body {
 
 @font-face {
   font-family: "GT";
-  src: url("../assets/GT-Super-Text-Regular.woff") format("WOFF");
+  src: url("../assets/GT-Super-Text-Regular-Italic.ttf") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
