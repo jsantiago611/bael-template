@@ -75,7 +75,7 @@ nav {
   color: #000;
   font-family: "NB", sans-serif;
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
 }
 @media only screen and (max-width: 40rem) {
