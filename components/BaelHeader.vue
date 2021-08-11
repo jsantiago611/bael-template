@@ -73,7 +73,7 @@ nav {
 }
 .sitename {
   color: #000;
-  font-family: "Inter", sans-serif;
+  font-family: "NB", sans-serif;
   text-transform: uppercase;
   font-weight: 800;
   font-size: 18px;
