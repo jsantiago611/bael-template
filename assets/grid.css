@@ -44,6 +44,13 @@ body {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "NB";
+  src: url("../assets/nbinternationalproregularwebfont.ttf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
 .main-title {
   font-size: 3rem;
   font-size: clamp(3.75rem, 7vw, 5.5rem);
