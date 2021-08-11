@@ -30,6 +30,13 @@ body {
   font-style: italic;
 }
 
+@font-face {
+  font-family: "GT";
+  src: url("../assets/GT-Super-Text-Regular-Italic.ttf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
 .main-title {
   font-size: 3rem;
   font-size: clamp(3.75rem, 7vw, 5.5rem);
