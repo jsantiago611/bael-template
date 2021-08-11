@@ -39,7 +39,7 @@ body {
 
 @font-face {
   font-family: "NB";
-  src: url("../assets/nb_international_pro_regular-webfont.ttf") format("WOFF");
+  src: url("../assets/nb_international_pro_regular-webfont.ttf") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
