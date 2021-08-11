@@ -37,6 +37,13 @@ body {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "NB";
+  src: url("../assets/GT-Super-Text-Regular.woff") format("WOFF");
+  font-weight: 400;
+  font-style: normal;
+}
+
 .main-title {
   font-size: 3rem;
   font-size: clamp(3.75rem, 7vw, 5.5rem);
